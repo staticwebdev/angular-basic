@@ -40,4 +40,4 @@ jobs:
     - name: Build production build
       run: npm run build
     - name: Run playwright tests
-      run: npm playwright test
+      run: npx playwright test
