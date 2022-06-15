@@ -6,6 +6,7 @@
     "start": "ng serve",
     "build": "ng build --configuration production",
     "test": "ng test",
+    "playwright_test" : "playwright test",
     "lint": "ng lint",
     "e2e": "ng e2e",
     "swa:start": "swa start app",
