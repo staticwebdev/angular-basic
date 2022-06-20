@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
+    "start": "ng serve --port 4280",
     "build": "ng build --configuration production",
     "test": "ng test",
     "playwright_test": "playwright test",
